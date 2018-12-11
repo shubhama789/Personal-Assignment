@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ht" value="name:assignmentname;datatype:string,name:initialdate;datatype:timestamp,name:finaldate;datatype:string,name:grade;datatype:int" />
+	<infoitem key="UD_ht1" value="name:assignmentname;datatype:string,name:initialdate;datatype:timestamp,name:finaldate;datatype:string,name:grade;datatype:int" />
+	<infoitem key="UD_ht2" value="name:assignmentname;datatype:string,name:initialdate;datatype:timestamp,name:finaldate;datatype:string,name:grade;datatype:int" />
+	<infoitem key="UD_ht3" value="name:assignmentname;datatype:string,name:initialdate;datatype:timestamp,name:finaldate;datatype:string,name:grade;datatype:int" />
+	<infoitem key="UD_ht4" value="name:assignmentname;datatype:string,name:initialdate;datatype:timestamp,name:finaldate;datatype:string,name:grade;datatype:int" />
+	<infoitem key="UD_ht5" value="name:assignmentname;datatype:string,name:initialdate;datatype:timestamp,name:finaldate;datatype:string,name:grade;datatype:int" />
+</info>

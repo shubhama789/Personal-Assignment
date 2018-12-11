@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_register" value="name:Name;datatype:string,name:Email;datatype:string,name:Password;datatype:string,name:Confirm_Password;datatype:string,name:Phone_Number;datatype:int,name:Submitted;datatype:string" />
+	<infoitem key="UD_submit" value="name:Name;datatype:string,name:Email;datatype:string,name:Password;datatype:string,name:Confirm_Password;datatype:string,name:Phone_Number;datatype:int,name:Submitted;datatype:string" />
+</info>

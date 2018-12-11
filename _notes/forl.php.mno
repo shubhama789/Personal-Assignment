@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_g1" value="name:assignmentname;datatype:string,name:initialdate;datatype:timestamp,name:finaldate;datatype:string,name:grade;datatype:int" />
+	<infoitem key="UD_tt4" value="name:assignmentname;datatype:string,name:initialdate;datatype:string,name:finaldate;datatype:string,name:grade;datatype:int" />
+	<infoitem key="UD_tt" value="name:assignmentname;datatype:string,name:initialdate;datatype:string,name:finaldate;datatype:string,name:grade;datatype:int" />
+</info>

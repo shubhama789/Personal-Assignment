@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_link" value="name:Name;datatype:blob,name:Email;datatype:string,name:Password;datatype:string,name:Confirm_Password;datatype:string,name:Phone_Number;datatype:int" />
+	<infoitem key="UD_kl" value="name:Name;datatype:blob,name:Email;datatype:string,name:Password;datatype:string,name:Confirm_Password;datatype:string,name:Phone_Number;datatype:int" />
+	<infoitem key="UD_logout" value="name:Name;datatype:blob,name:Email;datatype:string,name:Password;datatype:string,name:Confirm_Password;datatype:string,name:Phone_Number;datatype:int" />
+	<infoitem key="UD_login" value="name:Name;datatype:string,name:Email;datatype:string,name:Passsword;datatype:string,name:Confirm_Password;datatype:string,name:Phone_Number;datatype:int" />
+	<infoitem key="UD_dynamicdisplay" value="name:Name;datatype:blob,name:Email;datatype:string,name:Password;datatype:string,name:Confirm_Password;datatype:string,name:Phone_Number;datatype:int" />
+	<infoitem key="UD_Log_In_User" value="name:Name;datatype:string,name:Email;datatype:string,name:Passsword;datatype:string,name:Confirm_Password;datatype:string,name:Phone_Number;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:Name;datatype:string,name:Email;datatype:string,name:Passsword;datatype:string,name:Confirm_Password;datatype:string,name:Phone_Number;datatype:int" />
+	<infoitem key="UD_feed" value="name:Name;datatype:string" />
+	<infoitem key="UD_ufeed" value="name:Name;datatype:string,name:Email;datatype:string,name:Password;datatype:string,name:Confirm_Password;datatype:string,name:Phone_Number;datatype:int" />
+	<infoitem key="UD_r2" value="name:Roll;datatype:int,name:list;datatype:string,name:totalgrade;datatype:int" />
+</info>
